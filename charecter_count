@@ -1,1 +1,5 @@
-
+def count_char(word):
+    l = len(word)
+    return l
+word = 'This is a trial code'
+count_char(word)
